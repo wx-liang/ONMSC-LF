@@ -18,3 +18,8 @@ If you find our code useful, please cite:
   pages={1-1},
   doi={10.1109/TKDE.2020.3025100}}
   
+main function: multi_spectral_latefusion_demo.m
+
+datasets: flower17_Kmatrix.mat
+
+Please run .\eigs\feature_save.m to generate the 1st-order and 2nd-order cluster indicating matrices.
